@@ -66,7 +66,7 @@ footer{
   text-align: center;
 }
 
-@media screen and (max-width:321px){
+@media screen and (max-width:426px){
 
   .navbar{
     display: block;
@@ -78,13 +78,13 @@ footer{
     
   }
   .nav-options a{ 
-    font-size: 13px;
-    padding: 2px;
+    font-size: 15px;
+    padding: 5px;
    
   }
 
   .nav-options{
-    margin-left: 10px;
+    margin-left: 40px;
     margin-top: 0;
   }
 
